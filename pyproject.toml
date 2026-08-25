@@ -17,6 +17,10 @@ classifiers = [
 ]
 dependencies = []
 
+[project.urls]
+Homepage = "https://github.com/Henry-Samuel/mdpolish"
+Repository = "https://github.com/Henry-Samuel/mdpolish"
+
 [project.optional-dependencies]
 dev = ["pytest>=7.0"]
 

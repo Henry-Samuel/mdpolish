@@ -5,6 +5,8 @@
 
 Minimal Markdown polish cleaner: removes extra blank lines, trailing whitespace, and unnecessary leading/trailing blank lines. Designed for small readmes and docs where noisy diffs obscure real changes.
 
+Source and issues: https://github.com/Henry-Samuel/mdpolish
+
 ## Features
 
 - Remove repeated blank lines
